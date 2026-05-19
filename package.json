@@ -9,7 +9,7 @@
     "typecheck": "tsc --noEmit"
   },
   "keywords": [],
-  "author": "",
+  "author": "JeisonSilva",
   "license": "ISC",
   "type": "module",
   "dependencies": {

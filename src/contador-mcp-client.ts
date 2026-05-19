@@ -8,8 +8,8 @@ export async function createMcpClient() {
     });
 
     const client = new Client({
-        name: "Contador MCP Client",
-        description: "Un cliente que se comunica con el servidor MCP para contar números.",
+        name: "Consultor Contas MCP Client",
+        description: "Cliente MCP para análise de orçamentos imobiliários.",
         version: "1.0.0",
     })
 
