@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "analista-de-orcamentos": {
+        "command": "/home/jeison/.nvm/versions/node/v24.15.0/bin/node",
+        "args": [
+          "--experimental-strip-types",
+          "/home/jeison/projetos/mcps/consultor-contas/src/index.ts"
+        ],
+        "cwd": "/home/jeison/projetos/mcps/consultor-contas"
+      }
+    }
+  }

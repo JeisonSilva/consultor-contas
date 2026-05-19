@@ -1,0 +1,31 @@
+id,condominio,tipo_imovel,bairro,cidade,area_m2,quartos,banheiros,vagas_garagem,valor_imovel,taxa_condominio_mensal,iptu_anual,seguro_anual,manutencao_mensal,agua_mensal,energia_mensal,internet_mensal,total_custo_mensal,total_custo_anual
+1,Reserva Verde,Casa Térrea,Alphaville,São Paulo,180,3,3,2,950000.00,1200.00,8400.00,3800.00,400.00,120.00,250.00,120.00,2090.00,34080.00
+2,Reserva Verde,Casa Sobrado,Alphaville,São Paulo,240,4,4,3,1350000.00,1200.00,12000.00,5400.00,500.00,150.00,320.00,120.00,2290.00,39480.00
+3,Parque das Flores,Casa Térrea,Cotia,São Paulo,150,3,2,2,680000.00,850.00,5100.00,2720.00,300.00,100.00,200.00,100.00,1550.00,26025.00
+4,Parque das Flores,Casa Sobrado,Cotia,São Paulo,200,4,3,2,890000.00,850.00,6720.00,3560.00,380.00,120.00,260.00,100.00,1710.00,28695.00
+5,Portal do Sol,Casa Térrea,Granja Viana,Cotia,160,3,2,1,720000.00,950.00,5760.00,2880.00,320.00,110.00,210.00,110.00,1700.00,27660.00
+6,Portal do Sol,Casa Sobrado,Granja Viana,Cotia,220,4,4,2,1050000.00,950.00,8400.00,4200.00,420.00,130.00,280.00,110.00,1890.00,34380.00
+7,Vila dos Ipês,Casa Térrea,Tamboré,Santana de Parnaíba,170,3,3,2,820000.00,1100.00,6552.00,3280.00,350.00,115.00,220.00,115.00,1900.00,31572.00
+8,Vila dos Ipês,Casa Sobrado,Tamboré,Santana de Parnaíba,260,4,4,3,1480000.00,1100.00,11832.00,5920.00,530.00,160.00,340.00,115.00,2245.00,43872.00
+9,Recanto Sereno,Casa Térrea,Belavista,São Paulo,140,3,2,1,580000.00,780.00,4656.00,2320.00,280.00,95.00,185.00,100.00,1440.00,23556.00
+10,Recanto Sereno,Casa Sobrado,Belavista,São Paulo,190,3,3,2,780000.00,780.00,6240.00,3120.00,360.00,110.00,240.00,100.00,1590.00,27990.00
+11,Jardim Primavera,Casa Térrea,Hortolândia,Campinas,130,2,2,1,420000.00,620.00,3360.00,1680.00,250.00,85.00,160.00,90.00,1205.00,17955.00
+12,Jardim Primavera,Casa Sobrado,Hortolândia,Campinas,175,3,3,2,590000.00,620.00,4720.00,2360.00,310.00,100.00,210.00,90.00,1330.00,22395.00
+13,Bosque Real,Casa Térrea,Taquaral,Campinas,165,3,2,2,760000.00,980.00,6080.00,3040.00,340.00,112.00,215.00,110.00,1757.00,28557.00
+14,Bosque Real,Casa Sobrado,Taquaral,Campinas,230,4,4,3,1120000.00,980.00,8960.00,4480.00,450.00,140.00,300.00,110.00,1980.00,37340.00
+15,Mirante do Vale,Casa Térrea,Valinhos,Valinhos,155,3,2,2,640000.00,720.00,5120.00,2560.00,290.00,100.00,195.00,100.00,1405.00,23865.00
+16,Mirante do Vale,Casa Sobrado,Valinhos,Valinhos,210,4,3,2,920000.00,720.00,7360.00,3680.00,390.00,125.00,255.00,100.00,1590.00,30590.00
+17,Colinas do Sul,Casa Térrea,Aricanduva,São Paulo,145,3,2,1,610000.00,840.00,4880.00,2440.00,300.00,105.00,195.00,105.00,1545.00,24905.00
+18,Colinas do Sul,Casa Sobrado,Aricanduva,São Paulo,195,3,3,2,840000.00,840.00,6720.00,3360.00,370.00,118.00,245.00,105.00,1678.00,29378.00
+19,Terra Nova,Casa Térrea,Jundiaí,Jundiaí,150,3,2,1,550000.00,680.00,4400.00,2200.00,270.00,92.00,180.00,95.00,1317.00,21617.00
+20,Terra Nova,Casa Sobrado,Jundiaí,Jundiaí,200,4,3,2,780000.00,680.00,6240.00,3120.00,350.00,115.00,235.00,95.00,1475.00,27715.00
+21,Parque Burle Marx,Casa Térrea,Vila Andrade,São Paulo,185,3,3,2,1050000.00,1350.00,8400.00,4200.00,420.00,130.00,260.00,130.00,2290.00,37590.00
+22,Parque Burle Marx,Casa Sobrado,Vila Andrade,São Paulo,280,4,5,3,1650000.00,1350.00,13200.00,6600.00,580.00,165.00,380.00,130.00,2605.00,50205.00
+23,Residencial Mantiqueira,Casa Térrea,Atibaia,Atibaia,160,3,2,2,490000.00,580.00,3920.00,1960.00,260.00,88.00,170.00,90.00,1188.00,18668.00
+24,Residencial Mantiqueira,Casa Sobrado,Atibaia,Atibaia,215,4,3,2,680000.00,580.00,5440.00,2720.00,330.00,108.00,220.00,90.00,1328.00,24208.00
+25,Jardim das Américas,Casa Térrea,Boa Vista,Curitiba,140,3,2,1,480000.00,650.00,3840.00,1920.00,260.00,90.00,180.00,100.00,1280.00,20240.00
+26,Jardim das Américas,Casa Sobrado,Boa Vista,Curitiba,190,3,3,2,650000.00,650.00,5200.00,2600.00,320.00,110.00,230.00,100.00,1410.00,24610.00
+27,Novo Horizonte,Casa Térrea,Santa Felicidade,Curitiba,155,3,2,2,530000.00,700.00,4240.00,2120.00,280.00,95.00,185.00,100.00,1360.00,22060.00
+28,Novo Horizonte,Casa Sobrado,Santa Felicidade,Curitiba,210,4,3,2,730000.00,700.00,5840.00,2920.00,340.00,115.00,240.00,100.00,1495.00,26995.00
+29,Condomínio Bela Vista,Casa Térrea,Batel,Curitiba,170,3,3,2,780000.00,900.00,6240.00,3120.00,350.00,110.00,215.00,110.00,1685.00,28985.00
+30,Condomínio Bela Vista,Casa Sobrado,Batel,Curitiba,235,4,4,3,1080000.00,900.00,8640.00,4320.00,430.00,135.00,285.00,110.00,1860.00,36000.00
